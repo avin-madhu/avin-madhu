@@ -2,7 +2,7 @@
 
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
-[![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/214/#co)
+[![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-668cff?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-00599C?style=for-the-badge&logo=telegram&logoColor=white)
 [![Medium](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=medium&logoColor=white)]()
