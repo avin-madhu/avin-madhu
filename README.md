@@ -12,7 +12,7 @@
 ![image](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/HTML5-00599C?style=for-the-badge&logo=html5&logoColor=white)
 
-### top languages: 
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=github_dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avin-madhu&repo=JavaPrograms&theme=github_dark)](https://github.com/avin-madhu/JavaPrograms)
