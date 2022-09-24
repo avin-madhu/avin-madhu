@@ -1,11 +1,11 @@
 # Hey There! 
 
 ### Connect: 
-![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
 ![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-668cff?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-00599C?style=for-the-badge&logo=telegram&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=medium&logoColor=white)]()
 ![LeetCode](https://img.shields.io/badge/LeetCode-005ce6?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-00599C?style=for-the-badge&logo=HackerRank&logoColor=white)
 
