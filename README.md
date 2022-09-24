@@ -15,4 +15,4 @@
 ### top languages: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avin-madhu&repo=JavaPrograms&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avin-madhu&repo=JavaPrograms&theme=github_dark)](https://github.com/avin-madhu/JavaPrograms)
