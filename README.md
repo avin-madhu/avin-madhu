@@ -3,9 +3,7 @@
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
-
 [![Medium](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@funfauna14)
-
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00599C?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/avinmadhu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avin-madhu&theme=github_dark)
