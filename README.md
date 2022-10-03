@@ -22,7 +22,6 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=github_dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avin-madhu&repo=JavaPrograms&theme=github_dark)](https://github.com/avin-madhu/JavaPrograms)
 
 ![activityGraph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avin-madhu&theme=github_dark)
 
