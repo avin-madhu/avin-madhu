@@ -1,5 +1,5 @@
-# Hey There! 👋
-
+# Hey 👋
+# ![Hey](svgImg.svg)
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
