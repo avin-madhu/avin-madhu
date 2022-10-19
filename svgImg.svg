@@ -39,9 +39,9 @@
    
      <text font-family='"Fira Code", monospace' fill='#7ac1f0' font-size='32'
         dominant-baseline='middle'
-        x='60%' text-anchor='middle'>
+        x='65%' text-anchor='middle'>
         <textPath xlink:href='#path2'>
-            world
+            world !!
         </textPath>
     </text>
 
