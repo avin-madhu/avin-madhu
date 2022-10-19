@@ -18,7 +18,7 @@
     
 <path id='path2'>
         <animate id='d2' attributeName='d' begin='0s;d1.end' dur='3400ms'
-            values='m0,40 h0 ; m0,40 h600 ; m0,40 h600 ; m0,40 h0'
+            values='m0,40 h0 ; m0,40 h500 ; m0,40 h600 ; m0,40 h0'
             keyTimes='0;0.70588235294118;0.82352941176471;1' />
     </path>
 
