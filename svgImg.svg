@@ -14,29 +14,47 @@
 	}
 	</style>
 	
-    <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d1.end' dur='3400ms'
+    
+    
+<path id='path2'>
+        <animate id='d2' attributeName='d' begin='0s;d1.end' dur='3400ms'
             values='m0,40 h0 ; m0,40 h600 ; m0,40 h600 ; m0,40 h0'
             keyTimes='0;0.70588235294118;0.82352941176471;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#7DF74E' font-size='32'
+
+     <path id='path0'>
+        <animate id='d0' attributeName='d' begin='0s;d0.end' dur='103500ms'
+            values='m0,40 h0 ; m0,40 h600 ; m0,40 h600 ; m0,40 h0'
+            keyTimes='0;0.027053140096618;0.99323671497585;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#7ac1f0' font-size='32'
         dominant-baseline='middle'
-        x='50%' text-anchor='middle'>
+        x='40%' text-anchor='middle'>
         <textPath xlink:href='#path0'>
-            Hello, World!
+          hello 
+        </textPath>
+    </text>
+
+
+   
+     <text font-family='"Fira Code", monospace' fill='#7ac1f0' font-size='32'
+        dominant-baseline='middle'
+        x='60%' text-anchor='middle'>
+        <textPath xlink:href='#path2'>
+            world
         </textPath>
     </text>
 
     <path id='path1'>
-        <animate id='d1' attributeName='d' begin='d0.end' dur='3400ms'
+        <animate id='d1' attributeName='d' begin='d2.end' dur='3400ms'
             values='m0,40 h0 ; m0,40 h600 ; m0,40 h600 ; m0,40 h0'
             keyTimes='0;0.70588235294118;0.82352941176471;1' />
     </path>
-    <text font-family='"Fira Code", monospace' fill='#7DF74E' font-size='32'
+    <text font-family='"Fira Code", monospace' fill='#7ac1f0' font-size='32'
         dominant-baseline='middle'
-        x='50%' text-anchor='middle'>
+        x='67%' text-anchor='middle'>
         <textPath xlink:href='#path1'>
-            Hello, I am Avin!
+           , I am Avin!
         </textPath>
     </text>
 
