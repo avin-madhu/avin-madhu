@@ -1,6 +1,7 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-# ![Hey](svgImg.svg)
+# ![Hey](svgImg.svg) 
+![Profile views](https://gpvc.arturio.dev/avin-madhu)
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
@@ -26,4 +27,4 @@
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=avin-madhu&&theme=react-dark)
 
-<img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
+<img width= 60% src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
