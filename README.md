@@ -9,7 +9,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00599C?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/avinmadhu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avin-madhu&theme=github_dark)
-
+<img height="300px" align="right" padding-right="20px" src="93626-coding.gif"> 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avin-madhu&theme=holi-theme)
 
 ### Languages and tools: 
