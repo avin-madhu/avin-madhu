@@ -27,4 +27,4 @@
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=avin-madhu&&theme=react-dark)
 
-<img width= 60% src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
+<img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
