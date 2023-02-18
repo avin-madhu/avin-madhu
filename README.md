@@ -25,6 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=github_dark)
 
 
-![Avin](https://github-readme-activity-graph.cyclic.app/graph?username=avin-madhu&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)
+![Avin](https://github-readme-activity-graph.cyclic.app/graph?username=avin-madhu&custom_title=Avin%20Madhu's%20Activity%20Graph&hide_border=true&theme=react-dark)
 
 <img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
