@@ -28,3 +28,6 @@
 ![Avin](https://github-readme-activity-graph.cyclic.app/graph?username=avin-madhu&custom_title=Avin%20Madhu's%20Activity%20Graph&hide_border=true&theme=react-dark)
 
 <img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia">
+<div align=center> 
+     <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,"> 
+ </div>
