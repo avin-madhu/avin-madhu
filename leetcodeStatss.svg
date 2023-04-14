@@ -1,0 +1,153 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+    <title>LeetCode stats</title>
+</head>
+<body>
+        <div class="stat-container">
+            <div class="text">My Leetcode stat</div>
+            <div class="labels">
+                <p>Easy</p><p>Medium</p><p>Hard</p>
+            </div>
+            <div id="Progress" class="progress">
+                <div class="circle easy">1111</div>
+                <div class="circle medium">2222</div>
+                <div class="circle hard">3333</div>
+            </div>
+        
+    </div>
+
+    <style>
+        *{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+.stat-container{
+    height: 200px;
+    width: 400px;
+    position: relative;
+    background-color: rgb(46, 46, 46);
+    border-radius: 20px;
+}
+
+.text{
+    height: 20%;
+    position: absolute;
+    top: 0%;
+    font-size: larger;
+    padding-top: 10px;
+    color: aliceblue;
+    width: 100%;
+    background-color: rgba(0, 255, 255, 0);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.labels{
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    background-color: rgba(0, 255, 255, 0);
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color: aliceblue;
+    padding-left: 38px;
+    padding-right: 38px;
+    background-color: #ffffff00;
+}
+
+.progress{
+    height: 60%;
+    position: absolute;
+    border-radius: 20px;
+    bottom: 0%;
+    background-color: rgba(197, 99, 99, 0);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #4caf4f93;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+.easy{
+   background-color: rgba(5, 255, 63, 0.2);
+   border: solid  7px rgb(5, 255, 26);
+}
+.medium{
+    background-color: rgba(251, 219, 13, 0.2);
+    border: solid 7px rgba(251, 219, 13, 26);
+}
+.hard{
+    background-color: rgba(255, 0, 0, 0.2);
+    border: solid 7px rgb(255, 51, 51);
+}
+
+.circle-label {
+    margin-bottom: 5px;
+}
+
+.circle-number {
+    font-size: 24px;
+    font-weight: bold;
+} 
+    </style>
+
+    
+    
+	<script>
+        window.onload = function(){
+       
+       fetch('https://leetcode-stats-api.herokuapp.com/avin-madhu', {
+           method: 'GET',
+           headers: {
+               'Accept': 'application/json',
+           },
+       })
+          .then(response => response.json())
+          .then(data=>{
+           const easy = document.getElementById('Progress').querySelector('.easy');
+           easy.textContent = data.easySolved
+       
+           const medium = document.getElementById('Progress').querySelector('.medium');
+           medium.textContent = data.mediumSolved
+       
+           const hard = document.getElementById('Progress').querySelector('.hard');
+           hard.textContent = data.hardSolved
+          })
+          .then(response => console.log(JSON.stringify(response)))
+       }
+    </script>
+</body>
+</html>
+
+  </foreignObject>
+</svg>
