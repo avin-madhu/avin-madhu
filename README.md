@@ -7,6 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-00599C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@funfauna14)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-00599C?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/avinmadhu)
+ <a href="https://arasgungore.github.io" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+ <a href="https://leetcode.com/avin_madhu" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black /> </a>
 
 ![avin](https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=github_dark)
 
