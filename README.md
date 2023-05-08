@@ -10,7 +10,7 @@
  <a href="https://my-portfolio-eta-ebon.vercel.app/" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
  <a href="https://leetcode.com/avin_madhu" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
 
-![avin](https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=github_dark)
+![avin](https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=algolia)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avin-madhu&theme=holi-theme)
 
@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java&logoColor=white) ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![typesscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=algolia)
 
 
 ![Avin](https://github-readme-activity-graph.cyclic.app/graph?username=avin-madhu&custom_title=Avin%20Madhu's%20Activity%20Graph&hide_border=true&theme=react-dark)
