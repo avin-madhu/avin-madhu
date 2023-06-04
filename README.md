@@ -1,7 +1,9 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 # ![Hey](svgImg.svg) 
-![Profile views](https://gpvc.arturio.dev/avin-madhu)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avin-madhu" alt="pemtajo" /> </p>
+
 ### Connect: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-00599C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avin-madhu-840b82206)
 [![Gmail](https://img.shields.io/badge/Gmail-1a75ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinmadhu@gmail.com)
@@ -14,7 +16,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avin-madhu&theme=holi-theme)
 
-### Tech Stack: 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -27,6 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=algolia)
 
 
-![Avin](https://github-readme-activity-graph.cyclic.app/graph?username=avin-madhu&custom_title=Avin%20Madhu's%20Activity%20Graph&hide_border=true&theme=react-dark)
+![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avin-madhu&theme=nord_dark)
 
-<img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia&margin-w=10&margin-h=10">
+<P align="center"> <img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia&margin-w=10&margin-h=10"></p>
