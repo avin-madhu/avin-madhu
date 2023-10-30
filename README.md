@@ -2,8 +2,6 @@
 
 # ![Hey](svgImg.svg) 
 
-[![image](https://readme-typing-svg.herokuapp.com/?lines=Hi....!!+I+am+Tinu+Thampi.;A+passionate+coder+from+India.;Welcome+to+my+Github+Profile......)](https://git.io/typing-svg/)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avin-madhu" alt="pemtajo" /> </p>
 
 ### Connect: 
