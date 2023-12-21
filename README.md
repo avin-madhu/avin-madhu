@@ -34,4 +34,6 @@
 
 ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avin-madhu&theme=nord_dark)
 
-<P align="center"> <img  src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=algolia&margin-w=10&margin-h=10"></p>
+<div align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,">
+</div>
