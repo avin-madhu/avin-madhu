@@ -17,6 +17,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avin-madhu&theme=holi-theme)
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avin-madhu&theme=github-dark)](https://github.com/avin-madhu/github-readme-activity-graph)
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
@@ -29,9 +32,6 @@
 
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=algolia)
-
-
-![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avin-madhu&theme=nord_dark)
 
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language">
