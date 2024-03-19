@@ -34,5 +34,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avin-madhu&layout=compact&theme=algolia)
 
 <div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language">
+    <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=4&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language">
 </div>
