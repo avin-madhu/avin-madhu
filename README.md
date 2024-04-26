@@ -1,4 +1,5 @@
-<img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
+<div display='flex' justify-contents='center' align-items='center'>
+ <img align='center' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"
 />
 
 # ![Hey](svgImg.svg) 
@@ -37,4 +38,6 @@
 
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language">
+</div>
+
 </div>
