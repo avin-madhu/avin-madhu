@@ -17,6 +17,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=avin-madhu&theme=holi-theme)
 
+![leetcode stats](https://stats.justsong.cn/api/leetcode/?username=avin-madhu&theme=dark)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avin-madhu&theme=github-dark)](https://github.com/avin-madhu/github-readme-activity-graph)
 
