@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=avin-madhu&color=blue)](https://github.com/avin-madhu)
 
-Full Stack Developer | Open Source Enthusiast
+Full Stack Developer | Python Developer 
 
 ---
 
