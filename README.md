@@ -17,7 +17,7 @@ Full Stack Developer | Python Developer
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=algolia" alt="GitHub Stats" />
 
