@@ -68,7 +68,7 @@ Full Stack Developer | Python Developer
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies!
 
 <img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language" />
 
