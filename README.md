@@ -19,9 +19,8 @@ Full Stack Developer | Python Developer
 
 ### 📊 My statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=algolia" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avin-madhu&theme=holi-theme" alt="GitHub Streak" />
+![Avin Madhu's Stats](https://github-readme-stats.vercel.app/api?username=avin-madhu&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -80,7 +79,7 @@ Full Stack Developer | Python Developer
 
 ### 🏆 GitHub Trophies!
 
-<img src="https://github-profile-trophy.vercel.app/?username=avin-madhu&theme=github-dark&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,Language" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
